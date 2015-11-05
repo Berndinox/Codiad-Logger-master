@@ -1,4 +1,4 @@
-# Terminal Emulator
+# Logger
 
 This plugin displays Logfiles from your Server (eg. PHP-FPM & NGINX) 
 
