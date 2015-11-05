@@ -1,0 +1,10 @@
+[ { "author" : "Berndinox",
+    "version" : "1.0",
+    "name" : "Logger",
+    "url" : "https://github.com/Berndinox",
+    "rightbar" : [{
+        "action" : "codiad.logger.open();",
+        "icon" : "icon-list",
+        "title" : "Logger"
+        }]
+  } ]
